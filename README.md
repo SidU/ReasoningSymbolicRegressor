@@ -5,6 +5,8 @@
 ## 🚀 Overview
 `ReasoningSymbolicRegressor` integrates symbolic regression with LLM-powered reasoning, allowing AI to not only search for equations but also **self-correct and refine them** through structured feedback.
 
+![image](https://github.com/user-attachments/assets/906259a8-e8ff-47df-967c-005b2482de20)
+
 ## 📦 Installation
 You can install this package via PyPI:
 ```bash
