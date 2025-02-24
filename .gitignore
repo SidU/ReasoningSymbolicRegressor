@@ -1,0 +1,37 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# Ignore virtual environment
+venv/
+.env
+*.env
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore outputs
+outputs/
+
+# Ignore dist
+dist/
+
